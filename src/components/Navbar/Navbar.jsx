@@ -15,7 +15,7 @@ function Navbar() {
           <nav>
             <ul >
               <li>
-                <a href="#" className={style.active}>
+                <a href="#" className='style.active'>
                   Home
                 </a>
               </li>
